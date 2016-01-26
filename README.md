@@ -1,2 +1,2 @@
 # greedy-nav
-An greedy descent algorithm that iteratively adds a set of links in order to optimize a supermodular function.
+A greedy descent algorithm that iteratively adds a set of links on a Graph partitioned into two sets Q and C, in order to optimize a supermodular set function. The function represents the average time a random walker spends in a set of nodes Q before it is absorbed in a set of nodes C. 
